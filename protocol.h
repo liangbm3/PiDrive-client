@@ -2,7 +2,6 @@
 #define PROTOCOL_H
 
 #include <stdlib.h>
-#include "string.h"
 
 #define REGIST_OK "regist ok"
 #define REGIST_FAILED "regist fail"

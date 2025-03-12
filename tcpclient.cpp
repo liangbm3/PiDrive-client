@@ -6,8 +6,9 @@
 #include <QDebug>//用于调试
 #include <QFile>//用于文件操作
 #include <QMessageBox>
-#include "protocol.h"
+#include "protocol.h"//自定义消息协议
 #include "string.h"
+
 TcpClient::TcpClient(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::TcpClient)

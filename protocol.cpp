@@ -1,5 +1,5 @@
 #include "protocol.h"
-
+#include "string.h"
 
 PDU *mkPDU(uint uiMsgLen)
 {

@@ -1,5 +1,4 @@
 #include "tcpclient.h"
-
 #include <QApplication>
 #include <QLocale>
 #include <QTranslator>
